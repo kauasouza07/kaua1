@@ -22,5 +22,13 @@ body {
     color: blueviolet
 }
 .isabonita {
-    background-color: bronw
+    background-color: white
 }
+
+font-style: italic
+
+.lista {
+        display: inline-block;h1
+        padding: 5%;
+        margin-right: 10%;
+    }
